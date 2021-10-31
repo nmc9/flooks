@@ -20,7 +20,7 @@
 <div class="page-header" style="margin-top:0px;">
     <div id="hdrDiv" style="background-color:#8299AE;">
         <img class="center-block img-responsive"
-             src="{{ asset('/img/FMM2.png') }}"
+             src="{{ asset('/img/flooklogo.png') }}"
              alt="Store Front Image"
              style="max-height:200px; border: 1px solid #423244;">
     </div>
